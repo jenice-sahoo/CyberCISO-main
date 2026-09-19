@@ -130,6 +130,3 @@ One project serves both the static frontend and the Python API:
 - Backend: Render or Railway (see `backend/render.yaml` / `backend/railway.toml`)
 - Local: `docker compose up`
 
-## TEAM MEMBERS
-
-Jenice Sahoo & Tanvi Agrawal
